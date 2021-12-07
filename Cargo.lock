@@ -1206,7 +1206,7 @@ dependencies = [
 [[package]]
 name = "oxigraph"
 version = "0.3.0-dev"
-source = "git+https://github.com/oxigraph/oxigraph?branch=master#cfb3be6d3470f32be6c1b24ba42c017a2ead6945"
+source = "git+https://github.com/oxigraph/oxigraph?branch=master#15f33505ea8ea2cb505a615c6bd587ec897ea45f"
 dependencies = [
  "digest",
  "getrandom 0.2.3",
@@ -1266,7 +1266,7 @@ checksum = "c8e54fb37480ffa01a9af93f991ba229b3091f2e6ac84c8f6df2c509356cc473"
 [[package]]
 name = "oxrocksdb-sys"
 version = "0.3.0-dev"
-source = "git+https://github.com/oxigraph/oxigraph?branch=master#cfb3be6d3470f32be6c1b24ba42c017a2ead6945"
+source = "git+https://github.com/oxigraph/oxigraph?branch=master#15f33505ea8ea2cb505a615c6bd587ec897ea45f"
 dependencies = [
  "bindgen",
  "cc",
@@ -1759,7 +1759,7 @@ dependencies = [
 [[package]]
 name = "spargebra"
 version = "0.1.0"
-source = "git+https://github.com/oxigraph/oxigraph?branch=master#cfb3be6d3470f32be6c1b24ba42c017a2ead6945"
+source = "git+https://github.com/oxigraph/oxigraph?branch=master#15f33505ea8ea2cb505a615c6bd587ec897ea45f"
 dependencies = [
  "oxilangtag",
  "oxiri",
