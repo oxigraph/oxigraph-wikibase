@@ -1,3 +1,5 @@
+**WARNING: This project is not developed anymore and is archived. Feel free to step up to maintain it.**
+
 Oxigraph Wikibase
 =================
 
